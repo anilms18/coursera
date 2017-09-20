@@ -1,1 +1,2 @@
-Machine learning course by Andrew NG
+Machine learning course taught by Andrew NG
+https://www.coursera.org/learn/machine-learning
